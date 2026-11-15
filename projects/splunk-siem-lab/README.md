@@ -55,7 +55,7 @@ Brute-force attack detection.
 
 This screenshot shows Splunk Enterprise successfully running and returning internal log events.
 
-![Splunk Internal Search](../../screenshots/01-splunk-internal-search.png)
+![Splunk Internal Search](screenshots/01-splunk-internal-search.png)
 Security incident investigation.
 
 Learning Outcomes
