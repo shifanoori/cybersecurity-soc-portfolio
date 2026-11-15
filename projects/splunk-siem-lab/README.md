@@ -49,7 +49,13 @@ Failed login analysis (Event ID 4625).
 New user account creation (Event ID 4720).
 
 Brute-force attack detection.
+## Lab Evidence
 
+### Splunk Internal Search
+
+This screenshot shows Splunk Enterprise successfully running and returning internal log events.
+
+![Splunk Internal Search](../../screenshots/01-splunk-internal-search.png)
 Security incident investigation.
 
 Learning Outcomes
