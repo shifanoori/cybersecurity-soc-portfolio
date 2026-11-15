@@ -26,3 +26,8 @@ My hands-on SOC Analyst home lab using Splunk Enterprise.
 Screenshots documenting my practical Splunk work.
 
 **Status:** In Progress
+## Lab Evidence
+
+### Splunk Internal Search
+
+![Splunk Internal Search](../../screenshots/01-splunk-internal-search.png)
